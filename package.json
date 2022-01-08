@@ -1,13 +1,13 @@
 {
   "name": "cmc-price-feed",
   "version": "1.0.0",
-  "description": "",
+  "description": "An API fetching the top ten cryptocurrency price information from coin market cap",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "David Carr-Gregg",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.22.0",
